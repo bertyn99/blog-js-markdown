@@ -1,0 +1,32 @@
+[
+    {
+        "title" : "Mon premier article!",
+        "date" : "09/10/2020",
+        "author" : "Jules Vernes",
+        "slug" : "mon-premier-article"
+    },
+    {
+        "title" : "Je viens du futur!",
+        "date" : "11/10/2020",
+        "author" : "Jules Vernes",
+        "slug" : "je-viens-du-futur"
+    },
+    {
+        "title" : "Guide de l'asynchrone en Javascript",
+        "date" : "09/10/2020",
+        "author" : "Bill Gates",
+        "slug" : "guide-asynchrone-javascript"
+    },    
+    {
+        "title" : "Notre Dame de Nantes",
+        "date" : "08/10/2020",
+        "author" : "Victor Hugo",
+        "slug" : "notre-dame-nantes"
+    },
+    {
+        "title" : "Blog en hiatus",
+        "date" : "08/10/2020",
+        "author" : "Jules Vernes",
+        "slug" : "blog-en-hiatus"
+    }
+]

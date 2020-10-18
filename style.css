@@ -1,0 +1,12 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    margin : 0;
+}
+
+header {
+    height :  5em;
+    text-align: center;
+    background-color: black;
+    color : #d5d5d5;
+    padding : 3em 1em;
+}
